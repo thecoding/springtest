@@ -1,4 +1,4 @@
-package com.springtest.findbean;
+package com.springtest.pojo;
 
 /**
  * @author Mirko
@@ -16,6 +16,9 @@ public class User {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    public User() {
     }
 
     public User(String name, int age) {

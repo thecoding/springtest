@@ -1,9 +1,6 @@
 package com.springtest;
 
 import com.springtest.config.AppConfig;
-import com.springtest.findbean.User;
-import org.springframework.beans.factory.ObjectFactory;
-import org.springframework.beans.factory.config.ObjectFactoryCreatingFactoryBean;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.util.StringUtils;
 

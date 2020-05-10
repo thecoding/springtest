@@ -1,5 +1,6 @@
 package com.springtest.findbean;
 
+import com.springtest.pojo.User;
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.beans.factory.config.ObjectFactoryCreatingFactoryBean;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
