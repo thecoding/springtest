@@ -1,5 +1,6 @@
 package com.springtest.service;
 
+import com.springtest.conditionalOnClass.DevilHitter;
 import org.springframework.stereotype.Component;
 
 import javax.swing.*;
@@ -19,7 +20,6 @@ public class TestService {
 //        File file = new File("aa");
 //        BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(new File("aaa"))));
 //        JList list = null;
-
     }
 
 //    float a;static float b; final float c = 0.0f;

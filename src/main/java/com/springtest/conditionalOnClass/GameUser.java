@@ -16,4 +16,10 @@ public class GameUser {
     public void userHitter(){
         hitter.hit();
     }
+
+
+    public static void main(String[] args) throws ClassNotFoundException {
+        Class<?> cls = Class.forName(DevilHitter.class.getName());
+
+    }
 }
